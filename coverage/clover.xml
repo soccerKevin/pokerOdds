@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1734224532066" clover="3.2.0">
+  <project timestamp="1734224532066" name="All files">
+    <metrics statements="26" coveredstatements="26" conditionals="12" coveredconditionals="12" methods="20" coveredmethods="20" elements="58" coveredelements="58" complexity="0" loc="26" ncloc="26" packages="1" files="2" classes="2"/>
+    <file name="isHand.ts" path="/Users/kevintownsend/Projects/PokerOdds/src/cards/isHand.ts">
+      <metrics statements="26" coveredstatements="26" conditionals="12" coveredconditionals="12" methods="20" coveredmethods="20"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="65" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="40" type="stmt"/>
+      <line num="12" count="37" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="26" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="18" count="3" type="stmt"/>
+      <line num="19" count="10" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="3" type="stmt"/>
+      <line num="24" count="10" type="stmt"/>
+      <line num="25" count="3" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="29" count="3" type="stmt"/>
+      <line num="30" count="8" type="stmt"/>
+      <line num="33" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="35" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="38" count="2" type="stmt"/>
+      <line num="39" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="42" count="1" type="stmt"/>
+      <line num="43" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="46" count="1" type="stmt"/>
+      <line num="47" count="2" type="stmt"/>
+      <line num="48" count="3" type="stmt"/>
+    </file>
+    <file name="models.ts" path="/Users/kevintownsend/Projects/PokerOdds/src/cards/models.ts">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+    </file>
+  </project>
+</coverage>
