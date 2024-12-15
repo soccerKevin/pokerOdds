@@ -13,4 +13,8 @@ module.exports = {
     "^.+\\.[tj]s$": "babel-jest" // Use Babel for JS and TS file transformation
   },
   verbose: true, // Display individual test results
+  moduleNameMapper: {
+    '^@/resources/(.*)$': '<rootDir>/src/resources/$1',
+    '^@/resources$': '<rootDir>/src/resources',
+  },
 };

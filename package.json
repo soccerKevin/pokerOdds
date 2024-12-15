@@ -5,7 +5,7 @@
   "main": "src/index.ts",
   "scripts": {
     "build": "babel src --out-dir dist --extensions \".ts,.js\"",
-    "test": "jest /src",
+    "test": "jest ${1:-/src}",
     "prettier": "prettier ./src --write"
   },
   "keywords": [],
